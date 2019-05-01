@@ -25,6 +25,6 @@ Question 3: We would like to collect the data, from both the eDNA results and th
 
 Question 4: The output will be an organized view of the data provided, both eDNA and the variable. It is our hope that our code will provide researchers an orderly and efficient way to access data about a specific species or a characteristic of the variable. At this time, we are unsure if the output will provide number values or written word (i.e. species, family, color, size).
 
-Question 5:
+Question 5:I will be using the sed function to process and clean up the data files to only contain the data we need to analyze after we choose the variable. 
 
 Question 6: Our biggest concerns are our lack of experience. We fear that we will not be able to come up with the appropriate commands to code for what we want to manipulate or fix in the provided data. We are also afraid that we are not fully aware of the complexities of this project yet and will have a difficult time starting.
